@@ -3,13 +3,13 @@
 
 [https://github.com/KevinWu262/Accidents-Analysis.git](#)
 
-#### Analysis By: Kevin Wu
+#### By: Kevin Wu
 
 ***
 
 ## Description
-This is an analysis of US automotive accidents from 2016-2021, providing
-a variety of insights such as accident rates of different weather conditions,
+This analysis of US automotive accidents from 2016-2021 provides
+a variety of insights such as accident rates under different weather conditions,
 frequency of accidents in different states and locations, what time of day
 accidents occur most often, etc.
 
