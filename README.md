@@ -8,7 +8,7 @@
 ***
 
 ## Description
-This analysis of US automotive accidents from 2016-2021 provides
+This is a basic analysis of US automotive accidents from 2016-2021. It provides
 a variety of insights such as accident rates under different weather conditions,
 frequency of accidents in different states and locations, what time of day
 accidents occur most often, etc.
